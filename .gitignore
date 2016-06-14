@@ -1,0 +1,20 @@
+.idea
+
+*.cfg.xml
+*.json
+*.properties
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven
+/target
+*/target
+/reports
+*/reports
+
+# IDEA workspace
+.idea/
+*.iml

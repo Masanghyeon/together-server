@@ -1,0 +1,15 @@
+{
+  "port": 8080,
+  "password": {
+      "secretKey": "secret",
+      "expirySeconds": 0
+    },
+  "accessToken": {
+    "secretKey": "secret",
+    "expirySeconds": 0
+  },
+  "uploadToken": {
+    "secretKey": "secret",
+    "expirySeconds": 0
+  }
+}
